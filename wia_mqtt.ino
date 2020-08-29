@@ -5,7 +5,7 @@
 
 const char* ssid = "TP-LinkA"; // nombre de la red a la que se va a conectar
 const char* password =  "804abcd20"; //password de la red
-const char* device_secret_key = "d_sk8zRbBwrkuzU2hcXeG2"; //contraseña que se obtiene de la pagina de wia
+const char* device_secret_key = "d_sk8zRbBwrkuzU2hcXeG2"; //contraseña que se obtiene de la configuración del dispositivo en wia
 
 char server[] = "api.wia.io"; // sitio web al que se enlaza
 char path[] = "/v1/events"; // trayectoria de los eventos a almacenar
