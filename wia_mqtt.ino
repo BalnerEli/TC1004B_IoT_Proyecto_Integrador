@@ -3,9 +3,9 @@
 #include <ESP8266WiFi.h>
 #include <ArduinoHttpClient.h>
 
-const char* ssid = "TP-Link_E24A"; // nombre de la red a la que se va a conectar
-const char* password =  "80419020"; //password de la red
-const char* device_secret_key = "d_sk_B6nhRp8zRbBwrkuzU2hcXeG2"; //contraseña que se obtiene de la pagina de wia
+const char* ssid = "TP-LinkA"; // nombre de la red a la que se va a conectar
+const char* password =  "804abcd20"; //password de la red
+const char* device_secret_key = "d_sk8zRbBwrkuzU2hcXeG2"; //contraseña que se obtiene de la pagina de wia
 
 char server[] = "api.wia.io"; // sitio web al que se enlaza
 char path[] = "/v1/events"; // trayectoria de los eventos a almacenar
