@@ -1,9 +1,8 @@
 # TC1004B_IoT
-Guía para el desarrollo del reto
-
-En este repositorio se encuentra el material necesario para los primeros pasos en el ESP8266 y el ESP32, usando el IDE de Arduino. Es necesario que antes de comenzar tengas instalado en tu computadora el software que puedes descargar en el siguiente enlace: https://www.arduino.cc/en/main/software (selecciona el adecuado a tu sistema operativo)
-A lo largo del repositorio se indicaran las librerías que se deberán instalar para la correcta compilación del código
-
-Visita el [wiki](https://github.com/etorresr/TC1004B_IoT/wiki) para mayor información
-
-
+En este repositorio se encuentra paso a paso los códigos empleados para la realización del reto IOT. 
+Es preciso que para el desarrollo del reto, se tenga instalado el ide de Arduino, el cuál se encuentra en la siguiente liga: https://www.arduino.cc/en/main/software
+Adicionalmente, las siguientes necesarias para la compilación del programa:
+DHT.h l
+WiFi.h 
+Firebase_ESP_Client.h 
+Arduino.h 
